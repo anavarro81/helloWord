@@ -1,0 +1,27 @@
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+body { 
+    font-size: 20px; 
+}
+
+.box-centered {
+	width: 200px;
+	height: 200px;
+	background-color: cornflowerblue;
+	border: 1px solid black;
+	margin: 0 auto; /* Propiedad margin con los valores 0 vertical y auto horizontal */
+}
